@@ -29,3 +29,14 @@ elif (a == 'j'):
     print('Es la letra J, el valor que agregaste')
 else:
     print('No es la letra que se busca')
+
+    # Actualización PC
+
+
+a1 = input('Ingrese un número: ')
+if (a1 == 2):
+    print ('Es el número ganador')
+elif (a1 == 3):
+    print ('Es el número de empate')
+else:
+    print('Lo siento perdiste')
