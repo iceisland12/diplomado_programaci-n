@@ -23,3 +23,4 @@ a = 'abcdefg'
 
 for i in a: # donde i (variable que acumula el ciclo) dentro de a (variable que contiene el str):
     print(i, end='  ') # Imprime i , con está separación
+
