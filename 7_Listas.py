@@ -41,6 +41,12 @@ print(a)
 
 # Además se puede colocar dentro de los parentesis del .append() un input ya sea con int(input) o float(input)
 
+lista = []
+lista.append(int(input("Ingresa un valor a lista: ")))
+lista.append((input("Ingresa un valor a lista: ")))
+for i in lista:
+    print(i, end='  ')
+
 # .pop es para eliminar el ultinmo elemento de la lista
 
 a1 = [6,6.5,"Hola"]

@@ -1,0 +1,8 @@
+string\1
+string\2
+
+
+
+Hoy es un buen día para programar 
+
+# En programación, el caracter '\n' ----> 
