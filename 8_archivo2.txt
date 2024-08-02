@@ -1,0 +1,10 @@
+Lunes
+0
+Martes
+1
+Miercoles
+0
+Jueves 
+1
+Viernes
+0
